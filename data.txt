@@ -1,3 +1,3 @@
-Name: Anne
+Name: Anna
 Age: 43
 Favorite color: Yellow
